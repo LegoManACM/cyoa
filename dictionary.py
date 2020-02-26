@@ -11,8 +11,8 @@ option1_2 = {'keep going, page: 5': '','DSPG': 4}
 page1 = {'text': 'As you walk down the path, you hear a scraping noise!', 'option':[option1_1, option1_2],'type':'normal'}
 
 #right
-option2_1 = {'text': '','DSPG': 4}
-option2_2 = {'text': '','DSPG': 5}
+option2_1 = {'text': 'open the chest','DSPG': 4}
+option2_2 = {'text': 'turn back','DSPG': 5}
 page2 = {'text': 'You find yourself at the end of a long hall in a small room. Resting in the center of the room on a small pedastool, you see a large chest!', 'option':[option2_1, option2_2],'type':'normal'}
 
 option3_1 = {'text': '','DSPG': 0}
